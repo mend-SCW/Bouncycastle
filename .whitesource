@@ -9,7 +9,7 @@
     "enableScan": true,
     "scanPullRequests": true,
     "incrementalScan": true,
-    "enableRemediation": true,
+    "enableRemediation": fr,
     "baseBranches": [],
     "snippetSize": 10
   },
